@@ -12,6 +12,7 @@
 
 1. Download the respository. 
 2. Remove the following code:
+   
    ![This is an image](drive_import.png)
 3. Remove every instance of an exclamation point ("!") when it appears at the start of a line of code.
    
