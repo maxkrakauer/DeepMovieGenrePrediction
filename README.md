@@ -12,7 +12,7 @@ Model that predicts movie genres using movies posters and plots
 ## Instructions:
 We have three notebooks, each containing a model:
 * cnn_movie_genre_classifier.ipynb, which contains the cnn model, using posters only 
-* encoder_movie_genre_classifier.ipynb, which contains the encoder model, using plots only
+* plot_embedder.ipynb, which contains the encoder model, using plots only
 * combined_models_movie_genre_classifier.ipynb, which combines the two above models into one final model. This models uses plots and posters
 
 ### Setup:
